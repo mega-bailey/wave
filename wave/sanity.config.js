@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'wave',
 
-  projectId: '4u8cdogk',
+  projectId: 'flwdxmzq',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
